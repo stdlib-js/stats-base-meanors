@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-meanors",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Calculate the arithmetic mean of a strided array using ordinary recursive summation.",
   "license": "Apache-2.0",
   "author": {
