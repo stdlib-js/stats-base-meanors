@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-meanors",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Calculate the arithmetic mean of a strided array using ordinary recursive summation.",
   "license": "Apache-2.0",
   "author": {
@@ -39,7 +39,7 @@
   "dependencies": {
     "@stdlib/blas-ext-base-gsumors": "^0.2.1",
     "@stdlib/types": "^0.3.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.1",
